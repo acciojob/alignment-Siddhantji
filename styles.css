@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.middle{
+	width:100%;
+}
+.center{
+	text-align:center;
+}
+#table-2{
+	margin-top: 10px;
+	margin-bottom:10px
+}
+.green{
+	background-color:green;
+}
+.blue{
+	background-color:blue;
+}
+.right{
+	text-align:right;
+}
+table,td,th{
+	border:1px solid black;
+}
