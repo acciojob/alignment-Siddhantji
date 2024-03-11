@@ -1,29 +1,26 @@
-/*  your css code here. If applicable */
-.middle{
-	width:100%;
+/* your css code here. If applicable */
+.middle {
+    width: 100%;
 }
-.center{
-	text-align:center;
+.center {
+    text-align: center;
 }
-#table-2{
-	margin-top: 10px;
-	margin-bottom:10px
+#table-2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
-.green{
-	background-color:green;
+.green {
+    background-color: green;
 }
-.blue{
-	background-color:blue;
+.blue {
+    background-color: blue;
 }
-.right{
-	text-align:right;
+.right {
+    text-align: right;
 }
-table,td,th{
-	border:1px solid rgb(0,0,0) !important;
-	padding:1px !important ;
-}
-td{
-	border:1px solid rgb(0,0,0) !important;
-	
-}
+table,
+td,
+th {
+    border: 1px solid rgb(0, 0, 0) !important;
+    padding: 1px !important;
 }
