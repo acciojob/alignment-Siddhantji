@@ -24,6 +24,10 @@ th {
     border: 1px solid rgb(0,0,0);
     padding: 1px !important;
 }
+#t11{
+	border: 1px solid rgb(0, 0, 0);
+}
+
 td{
 	border: 1px solid rgb(0, 0, 0);
 }
